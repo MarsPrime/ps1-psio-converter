@@ -649,3 +649,44 @@ Argument 1 - /home/demid/Загрузки/
 /home/demid/Загрузки/Russo_One.zip
 /home/demid/Загрузки/Tony Hawk's Underground 2 - Remix(1)
 /home/demid/Загрузки/Работа насоса на подаче оборотной воды по тканевым водоводам Сибкрасполимер .mp4
+argument numbers: 2
+0
+Argument 0 - ./a.out
+1
+Argument 1 - .
+./main.cpp
+6
+7
+8
+9
+./main	
+./.git
+2
+3
+4
+5
+./	
+./test.tst
+6
+7
+8
+9
+./test	
+./a.out
+3
+4
+5
+6
+./a	
+./.gitignore
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+./	
